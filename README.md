@@ -1,6 +1,15 @@
-# Forking from DAO MiniApp Starter (vite)
+# Intro and purpose
+Water for all - for a better world. 
 
-Vite React Starter for a DAO app scoped to a single DAO.
+Current decision making around water distribution is hindered by politics, local interests, and lobby groups - often disregarding the interest of the majority and the welfare of future generations.
+
+AquaDAO is coming to the rescue.
+
+AquaDAO provides the platform to bring transparency to the water distribution policies.  A platform for agreement on clear rules that will dictate how water will be distributed - based on science and engineering, not short-term political interest and at a Global scale.
+
+# Acknowledgements
+
+DAO framework is forked from DAO MiniApp Starter (DAOHaus)
 
 ## Development
 
