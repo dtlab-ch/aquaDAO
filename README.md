@@ -1,4 +1,4 @@
-# DAO MiniApp Starter (vite)
+# Forking from DAO MiniApp Starter (vite)
 
 Vite React Starter for a DAO app scoped to a single DAO.
 
